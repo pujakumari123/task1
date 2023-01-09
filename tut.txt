@@ -3,3 +3,5 @@ To start using Git, we are first going to open up our Command shell.
 For Windows, you can use Git bash, which comes included in Git for Windows. For Mac and Linux you can use the built-in terminal.
 
 The first thing we need to do, is to check if Git is properly installed:
+helooo hi
+
